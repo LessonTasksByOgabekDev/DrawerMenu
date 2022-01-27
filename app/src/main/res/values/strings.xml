@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DrawerMenu</string>
+    <string name="home">Home</string>
+    <string name="photos">Photos</string>
+    <string name="movies">Movies</string>
+    <string name="notification">Notification</string>
+    <string name="settings">Settings</string>
+    <string name="others">Others</string>
+    <string name="about_us">About Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="ogabek_matyakubov">Ogabek Matyakubov</string>
+    <string name="ogabekdev_gmail_com">ogabekdev@gmail.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="photos_fragment">Photos Fragment</string>
+    <string name="movies_fragment">Movies Fragment</string>
+    <string name="notification_fragment">Notification Fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+</resources>
